@@ -1,0 +1,10 @@
+.table {
+    border-collapse: collapse; /* To collapse borders into a single border */
+    width: 50%;
+}
+  
+.table th, .table td {
+    border: 1px solid black; /* Border style and color */
+    padding: 8px; /* Padding to the cells for spacing */
+    text-align: left; /* For text alignment within the cells */
+}
