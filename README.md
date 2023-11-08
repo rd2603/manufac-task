@@ -15,7 +15,7 @@ To get started with the Wine Data Statistics App, follow these steps:
 
 1. Clone the repository to your local machine:
 
-    git clone 
+    git clone https://github.com/rd2603/manufac-task
 
 2. Navigate to the project directory:
 
